@@ -11,7 +11,6 @@ gem 'rails-assets-tether'
 gem 'rails_12factor', group: :production
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'autoprefixer-rails'
-gem 'sqlite3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
 # Use postgresql as the database for Active Record
