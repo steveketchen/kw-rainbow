@@ -13,7 +13,7 @@
  */
 @import "bootstrap";
 a:hover{
-	cursor: hand;
+	cursor: pointer;
 }
 body{
 	background-color: #333;
@@ -31,4 +31,10 @@ body{
 	box-shadow: 5px 5px 25px #000;
 	border-radius: 0px 0px 5px 5px;
 
+}
+.rainbowtron{
+	background-color: #b60000;
+}
+.spacer{
+	height: 25px;
 }
